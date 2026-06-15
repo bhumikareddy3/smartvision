@@ -5,9 +5,7 @@ A production-quality computer vision system that **detects, tracks, and counts**
 ---
 ## Dashboard Preview
 
-![Dashboard](D:\smartvision\smartvision\screenshorts\Screenshot 2026-06-15 154026.png)
-D:\smartvision\smartvision\screenshorts\Screenshot 2026-06-15 154058.png
-
+![Dashboard] see in screenshots folder
 ## 🎥 Demo Video
 
 [Watch Demo](https://drive.google.com/file/d/1dsTr0fS9pN4Ye12riRM_y4mbMKH5bM6E/view?usp=sharing)
