@@ -565,15 +565,15 @@ with tabs[1]:
 
         ca, cb = st.columns(2)
         with ca:
-            st.plotly_chart(reporter.fig_hourly_crossings(sid),   use_container_width=True)
+            st.plotly_chart(reporter.fig_hourly_crossings(sid),   use_container_width=True, key="chart_hourly")
         with cb:
-            st.plotly_chart(reporter.fig_class_distribution(sid), use_container_width=True)
+            st.plotly_chart(reporter.fig_class_distribution(sid), use_container_width=True, key="chart_class")
 
         cc2, cd = st.columns(2)
         with cc2:
-            st.plotly_chart(reporter.fig_in_out_bar(sid),         use_container_width=True)
+            st.plotly_chart(reporter.fig_in_out_bar(sid),         use_container_width=True, key="chart_inout")
         with cd:
-            st.plotly_chart(reporter.fig_speed_distribution(sid), use_container_width=True)
+            st.plotly_chart(reporter.fig_speed_distribution(sid), use_container_width=True, key="chart_speed")
 
 
 # ─────────────────────────────────────────────────────────────────────────────

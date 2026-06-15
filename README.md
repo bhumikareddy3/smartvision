@@ -3,6 +3,10 @@
 A production-quality computer vision system that **detects, tracks, and counts** multiple object classes from webcam, video files, or RTSP streams. Built on YOLOv8 + ByteTrack with a live Streamlit dashboard.
 
 ---
+## Dashboard Preview
+
+![Dashboard](D:\smartvision\smartvision\screenshorts\Screenshot 2026-06-15 154026.png)
+D:\smartvision\smartvision\screenshorts\Screenshot 2026-06-15 154058.png
 
 ## 🎥 Demo Video
 
